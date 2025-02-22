@@ -1,0 +1,6 @@
+- id: code-quality-meme
+  name: Code Quality Meme Generator
+  description: Analyzes code and generates memes based on quality
+  entry: meme_generator.py
+  language: python
+  types: [python, javascript, typescript, java, c, cpp, go, ruby, php, csharp]
