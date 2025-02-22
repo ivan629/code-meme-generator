@@ -1,4 +1,4 @@
-# 💥 Shocking & Stylish Code Quality Meme Generator 💥
+# 💥 Stylish Code Quality Meme Generator 💥
 
 A pre-commit Git hook that analyzes your code, judges its quality, and **generates hilarious memes** to either celebrate your coding excellence or shame your questionable decisions.
 
